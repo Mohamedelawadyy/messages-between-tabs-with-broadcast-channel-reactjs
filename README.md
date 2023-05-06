@@ -1,11 +1,13 @@
 # https://messages-between-tabs-with-broadcast.onrender.com
 
+## open it in 2 tabs
+
 
 Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
